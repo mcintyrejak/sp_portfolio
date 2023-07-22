@@ -8,12 +8,46 @@ Reflect on the group discussion outcomes and define the specific scope and goals
 
 Consider your target audience, the type of projects you want to showcase, and the message you want to convey to visitors.
 
+## 1a) Target Audience
+
+    - Potenital clients & employers
+
+## 1b) Projects to Showcase
+
+    - Web pages (#100 Devs)
+
+## 1c) Message to Convey
+
+    - Following best practices
+    - High level communication
+    - I'm a person, not a product
+
 # 2. Individual Brainstorming and Research for Inspiration (Personal Task):
 
 Take time to brainstorm design and content ideas for your portfolio site.
 
 Explore various portfolio sites, not just from developers, but also from other creative fields, to gain inspiration for your design.
+
 Analyze what makes these sites visually appealing and user-friendly.
+
+## 2a Selected examples w/ analysis
+
+- https://www.behance.net/gallery/151731033/Portfolio-CV/modules/857538551
+  - Simple, soft landing with CV/about at the top, followed by an in depth look at projects
+    ++ Coloring, typography
+    ++ Neat and well laid out CV
+    ++ Index
+- https://www.behance.net/gallery/161911107/2023-INDUSTRIAL-PORTFOLIO/modules/914928089
+  - Clean and minimalistic use of text
+    ++ B&W color scheme
+- https://www.behance.net/gallery/165989743/Portfolio/modules/936424609
+  - Heading
+    ++ Color scheme & pops of color, use of transparency
+    ++ Section deliniations
+
+## 2b DNW
+
+- Busy, cluttered design
 
 # 3. Resourceful Websites for Inspiration (Personal Task):
 
